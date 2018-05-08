@@ -11,7 +11,7 @@ Physical computing means building interactive physical systems by the use of sof
 ![ardunio](https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg)
 ### sparkfun:
 ![sparkfun](https://cdn.sparkfun.com//assets/parts/1/1/7/2/2/13975-01.jpg)
-# dDIFFERENT TYPES OF SENSORS:
+# DIFFERENT TYPES OF SENSORS:
 ### Proximity Sensors:
 ![photo](http://www.microsolution.com.pk/wp-content/uploads/2017/06/Proximity-Sensor-in-Pakistan.jpg)
 ### Temperature Sensors:
