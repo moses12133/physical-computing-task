@@ -1,2 +1,3 @@
 # physical-computing-task
-######Welcome 
+# different types of micro controllers
+* micro bit 
