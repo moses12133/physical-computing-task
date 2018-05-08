@@ -20,3 +20,7 @@ Physical computing means building interactive physical systems by the use of sof
 ![photo](https://www.robotgeek.com/shared/images/PImages/RG-LIGHT-A.jpg)
 ### Ultrasonic Sensors:
 ![photo](https://cdn.tindiemedia.com/images/resize/jHxee0kYmKYputXEGwfpWQCH4Vc=/p/full-fit-in/2400x1600/i/89212/products/2016-03-07T18%3A51%3A45.917Z-hcsr04_1.jpg)
+# different types of Actuators:
+### Hydraulic
+![photo](http://www.texashydraulics.com/wp-content/uploads/construction-grade-03.jpg)
+
