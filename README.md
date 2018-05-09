@@ -3,6 +3,7 @@
 Physical computing means building interactive physical systems by the use of software and hardware that can sense and respond to the analog world.
 
 # DIFFERENT TYPES OF MICROCONTROLLERS: 
+##### It is a compact and small sized integrated circuit that governs a specific operation in the embedded system Here is a list of the different types of microcontrollers
 ### micro bit: 
 ![microbit](https://www.littlebirdelectronics.com.au/assets/full/SF-DEV-14208.jpg)
 ### raspberry pi:
@@ -12,6 +13,7 @@ Physical computing means building interactive physical systems by the use of sof
 ### sparkfun:
 ![sparkfun](https://cdn.sparkfun.com//assets/parts/1/1/7/2/2/13975-01.jpg)
 # DIFFERENT TYPES OF SENSORS:
+#####  A sensor refers to a device that detects or measures a physical property that is analysed in some sort of fashion, examples of sensors is that it is used to read any movement which is then trasported to the device.
 ### Proximity Sensors:
 ![photo](http://www.microsolution.com.pk/wp-content/uploads/2017/06/Proximity-Sensor-in-Pakistan.jpg)
 ### Temperature Sensors:
@@ -20,7 +22,8 @@ Physical computing means building interactive physical systems by the use of sof
 ![photo](https://www.robotgeek.com/shared/images/PImages/RG-LIGHT-A.jpg)
 ### Ultrasonic Sensors:
 ![photo](https://cdn.tindiemedia.com/images/resize/jHxee0kYmKYputXEGwfpWQCH4Vc=/p/full-fit-in/2400x1600/i/89212/products/2016-03-07T18%3A51%3A45.917Z-hcsr04_1.jpg)
-# different types of Actuators:
+# DIFFERENT TYPES OF ACTUATORS:
+##### An Actuator is a component of a machine that is responsible for moving a mechanism or system.
 ### Hydraulic:
 ![photo](http://www.texashydraulics.com/wp-content/uploads/construction-grade-03.jpg)
 ### Hand wheel gear box: 
